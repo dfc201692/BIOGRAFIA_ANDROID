@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/biografia">
+
+    <fragment
+        android:id="@+id/biografia"
+        android:name="com.example.menu_aplicacion.biografia"
+        android:label="@string/menu_biografia"
+        tools:layout="@layout/fragment_biografia" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.menu_aplicacion.ui.gallery.GalleryFragment"
+        android:label="@string/menu_galeria"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/estudio"
+        android:name="com.example.menu_aplicacion.estudio"
+        android:label="@string/menu_estudio"
+        tools:layout="@layout/fragment_estudio" />
+
+    <fragment
+        android:id="@+id/nav_familia"
+        android:name="com.example.menu_aplicacion.familia"
+        android:label="@string/menu_familia"
+        tools:layout="@layout/fragment_familia2" />
+
+
+    <fragment
+        android:id="@+id/mascota"
+        android:name="com.example.menu_aplicacion.mascota"
+        android:label="@string/menu_familia"
+        tools:layout="@layout/fragment_mascota" />
+
+    <fragment
+        android:id="@+id/proyectos"
+        android:name="com.example.menu_aplicacion.Proyectos"
+        android:label="@string/proyectos"
+        tools:layout="@layout/fragment_proyectos" />
+
+
+</navigation>

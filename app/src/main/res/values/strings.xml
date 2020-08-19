@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Presentación</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">David Ferney Cruz</string>
+    <string name="nav_header_subtitle">davidferneycruz@gmail..com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_biografia">Biografía Personal</string>
+    <string name="menu_galeria">Galeria Fotográfica</string>
+    <string name="menu_estudio">Estudios</string>
+    <string name="menu_familia">Familia</string>
+    <string name="menu_mascota">Mascota</string>
+    <string name="proyectos">Proyectos</string>
+
+    <!-- TODO: Textos en strings -->
+    <!-- Texto de biografia -->
+    <string name="biografia01">Mi Nombre es: David Ferney Cruz Naci en chiquinquirá boyacá Colombia el dia 15 de febrero de 1992</string>
+
+    <!-- Texto de proyecto -->
+    <string name="mascotalotila">GATITA LOLA</string>
+    <string name="presentacionlola">Les presento a mi gata Lola, la raza de ella es Australian Mist es una raza de gato desarrollada en Australia. Es un cruce entre el gato abisinio y el gato birmano.</string>
+    <string name="regalo">A Lolita me la regalo una gran amiga llamada Sara, me la regalo cuando era una bebesita, y la he cuidado muy bien, hasta el momento esta muy bella y muy bonita, Lola se la pasa comiendo y Durmiendo y en ocaciones jugando, es muy juguetona y cariñosita.</string>
+
+    <!-- Texto de proyecto -->
+    <string name="Proyecto01"> • Montar una empresa de desarrollo de Software</string>
+    <string name="Proyecto02"> • Estudiar una especialización tecnologica</string>
+    <string name="Proyecto03"> • Seguir creciendo profesionalmente</string>
+    <string name="Proyecto04"> • Impartir y brindar conocimiento a otros</string>
+
+    <!-- Texto de estudios -->
+    <string name="Estudios01"> • Bachiller tecnico </string>
+    <string name="Estudios02"> • Tecnico en construcción de edificaciones</string>
+    <string name="Estudios03"> • Ingeniero de sistemas</string>
+
+    <!-- Texto de familia -->
+    <string name="familia01"> Les presento a mi familia </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

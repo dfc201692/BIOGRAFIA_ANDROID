@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/biografia"
+            android:icon="@drawable/ic_baseline_biografia"
+            android:title="@string/menu_biografia" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_panorama_24"
+            android:title="@string/menu_galeria" />
+
+        <item
+            android:id="@+id/estudio"
+            android:icon="@drawable/ic_baseline_persona"
+            android:title="@string/menu_estudio" />
+
+        <item
+            android:id="@+id/nav_familia"
+            android:icon="@drawable/ic_baseline_carita"
+            android:title="@string/menu_familia" />
+
+        <item
+            android:id="@+id/mascota"
+            android:icon="@drawable/ic_baseline_mascota"
+            android:title="@string/menu_mascota" />
+
+        <item
+            android:id="@+id/proyectos"
+            android:icon="@drawable/ic_baseline_work"
+            android:title="@string/proyectos" />
+    </group>
+</menu>
