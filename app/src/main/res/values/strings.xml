@@ -16,7 +16,11 @@
 
     <!-- TODO: Textos en strings -->
     <!-- Texto de biografia -->
-    <string name="biografia01">Mi Nombre es: David Ferney Cruz Naci en chiquinquirá boyacá Colombia el dia 15 de febrero de 1992</string>
+    <string name="biografia01">Mi Nombre es: David Ferney Cruz Naci en Chiquinquirá boyacá Colombia el dia 15 de febrero de 1992, nací en el hospital ESE Hospital Regional de la ciudad, soy hijo de David Alberto Cruz Castro y Fanny Cristina Cruz Parra, mis padres se dedican al mantenimiento y reperación de toca clase de electrodomésticos, mi primaria yo la realice en la escule Normal Superior "anexa" fui un poco extrovertido e indisciplinado en esa epoca, era un pequeño terremoto; de ahi pase a estudiar al Instituto Tecnico Industrial "Julio Florez" en este colegio ocupaba los primeros lugares y me destacaba por mi rendimiento academico y participación, me gradue con honores de la especialidad de dibuje tecnico. con el titulo de Bachiller Tecnico en la especialidad de Dibujo Tecnico. </string>
+    <string name="biografia02">Acontinuación tome la desicion de incorporarme a presetar mi servicio militar a la Fuerza Aerea colombiana, alli estuve internado durante 18 meses en diferentes bases aereas (CATAM, CACOM 1,CACOM 5, Y GAORI) En esta maravillosa institución aprendi a ser mas ordenado, a recibir y dar ordenes, a valorar a la familia. </string>
+    <string name="biografia03">Al culminar mi servicio militar obligatorio, ingrese a otra gran institución llamada el SENA, alli estudie un Tecnico en Construcción de Edificaciones y aprendi bastante y me gradue de forma satisfactoria</string>
+    <string name="biografia04">Luego entre a la universidad Unisangil con sede en Chiquinquirá - Boyacá a estudiar una extraordinaria carrera llamada Ingenieria de Sistemas</string>
+    <string name="biografia05">En este momento me encuentro laborando en DATACENTER COLOMBIA como Desarrollador Nivel 1 en Android e iOS</string>
 
     <!-- Texto de proyecto -->
     <string name="mascotalotila">GATITA LOLA</string>
@@ -36,7 +40,5 @@
 
     <!-- Texto de familia -->
     <string name="familia01"> Les presento a mi familia </string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
